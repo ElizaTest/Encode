@@ -24,7 +24,7 @@ public class TestPage {
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
         driver.manage().window().maximize();
         driver.navigate().to("https://www.google.com");
-        driver.navigate().to("https://ru.wikipedia.org");
+      //  driver.navigate().to("https://ru.wikipedia.org");
 
     }
 
