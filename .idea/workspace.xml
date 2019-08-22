@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="32cd31db-1598-4b85-8ead-8711d58883c6" name="Default Changelist" comment="" />
+    <list default="true" id="32cd31db-1598-4b85-8ead-8711d58883c6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/ResultPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/TestPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/TestPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/TestPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/TestPage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-TestPage.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-TestPage.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestPage.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -59,11 +80,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="101">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="288">
+              <caret line="34" column="66" selection-start-line="34" selection-start-column="66" selection-end-line="34" selection-end-column="66" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="method#tearDown#0;class#TestPage#0" />
               </folding>
             </state>
           </provider>
@@ -72,10 +92,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/HomePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
+            <state relative-caret-position="170">
               <caret line="13" selection-start-line="13" selection-end-line="13" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#226#227#0" expanded="true" />
+                <element signature="e#319#320#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -90,19 +112,22 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/main/java/ResultPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/TestPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/HomePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TestPage.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="214" />
-    <option name="y" value="96" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="616" />
+    <option name="y" value="49" />
     <option name="width" value="713" />
     <option name="height" value="788" />
   </component>
@@ -110,42 +135,12 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="EXAMPLE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EXAMPLE" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="EXAMPLE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EXAMPLE" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EXAMPLE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EXAMPLE" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="EXAMPLE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EXAMPLE" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AutoSaveResumeFromEvernote" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -200,39 +195,40 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestPage - 2019.08.09 at 17h 25m 30s.xml">
-      <configuration name="TestPage" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="TestPage - 2019.08.09 at 17h 25m 45s.xml">
-      <configuration name="TestPage" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="TestPage - 2019.08.09 at 17h 25m 46s.xml">
-      <configuration name="TestPage" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="TestPage - 2019.08.09 at 17h 25m 56s.xml">
-      <configuration name="TestPage" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="TestPage - 2019.08.09 at 17h 26m 01s.xml">
-      <configuration name="TestPage" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="TestPage - 2019.08.09 at 17h 30m 25s.xml">
-      <configuration name="TestPage" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="TestPage - 2019.08.09 at 17h 31m 35s.xml">
-      <configuration name="TestPage" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="TestPage - 2019.08.09 at 17h 32m 58s.xml">
-      <configuration name="TestPage" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="TestPage - 2019.08.09 at 17h 33m 32s.xml">
-      <configuration name="TestPage" configurationId="GradleRunConfiguration" />
-    </history-entry>
     <history-entry file="TestPage - 2019.08.09 at 17h 33m 57s.xml">
+      <configuration name="TestPage" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestPage - 2019.08.13 at 16h 08m 52s.xml">
+      <configuration name="TestPage" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestPage - 2019.08.14 at 10h 57m 06s.xml">
+      <configuration name="TestPage" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestPage - 2019.08.14 at 10h 57m 41s.xml">
+      <configuration name="TestPage" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestPage - 2019.08.14 at 11h 02m 57s.xml">
+      <configuration name="TestPage" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestPage - 2019.08.14 at 11h 06m 16s.xml">
+      <configuration name="TestPage" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestPage - 2019.08.14 at 11h 07m 55s.xml">
+      <configuration name="TestPage" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestPage - 2019.08.14 at 11h 08m 43s.xml">
+      <configuration name="TestPage" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestPage - 2019.08.14 at 11h 11m 41s.xml">
+      <configuration name="TestPage" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestPage - 2019.08.15 at 09h 23m 19s.xml">
       <configuration name="TestPage" configurationId="GradleRunConfiguration" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.25340393" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -243,7 +239,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.30687022" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30605564" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -284,23 +280,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/HomePage.java">
+    <entry file="file://$PROJECT_DIR$/../untitled/src/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="288">
+          <caret line="34" column="66" selection-start-line="34" selection-start-column="66" selection-end-line="34" selection-end-column="66" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestPage.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/HomePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="170">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#tearDown#0;class#TestPage#0" />
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#319#320#0" expanded="true" />
           </folding>
         </state>
       </provider>
